@@ -11,6 +11,6 @@ I do have a Windows machine with a 2011 Dell monitor if I want to use the latest
 # Why Fedora on my main system?
 Linux gives me the freedom to do everything and anything I want, and gives me Desktop Environments.
 # Are you developing Fedora themes?
-Yes, **I am,** but there's a **catch**. I've developed AccurateGoldenGate and many other themes, and hosted release partys on Fedora discussion. 
+Yes, **I am,** but there's a **catch**. I've developed AccurateGoldenGate and AccurateTahoe (an Apple transformation for KDE Plasma) and many other themes, and hosted release partys on Fedora discussion. 
 # AccurateGoldenGate's history.
 Look on Fedora discussion (not trying to be mean, just limiting excessive text from this Markdown doc.) under the names AccurateGoldenGate, and AccurateTahoe.
