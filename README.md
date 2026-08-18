@@ -1,4 +1,3 @@
-This is a readme from **dayly**. This means that it contains changes that might get comitted into **main**.
 - 👋🏼 Hi, I’m Anakin Brownridge
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning **some** things
