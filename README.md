@@ -1,10 +1,6 @@
 - 👋🏼 Hi, I’m Anakin Brownridge
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning A lot of things
-  
-- 📫 How to reach me anakinbrownridge715@outlook.com or anakinbrownridge@icloud.com
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning **some** things
+- 📲 My Fedora forums and KDE Discourse profile: https://discussion.fedoraproject.org/u/linuxguy123456/ for Fedora,  https://discuss.kde.org/u/techperson3033/ for whole KDE repo.
+- 📫 How to reach me: anonymous.tb3033@gmail.com or anakinbrownridge@icloud.com
 
-<!---
-AnakinBrownridge/AnakinBrownridge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
