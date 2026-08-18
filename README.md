@@ -3,7 +3,7 @@ Hi, **you've been teleported back to my historical profile README from 12.09.24!
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning A lot of things
   
-- 📫 How to reach me anakinbrownridge715@outlook.com or anakinbrownridge@icloud.com
+- 📫 How to reach me anakinbrownridge715@outlook.com (LONG unactive email, only use it on my Windows computers) or anakinbrownridge@icloud.com
 
 <!---
 AnakinBrownridge/AnakinBrownridge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
