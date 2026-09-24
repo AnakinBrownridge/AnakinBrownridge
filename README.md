@@ -1,4 +1,7 @@
 This is a readme from **dayly**. This means that it contains the latest changes that might get comitted into **main**.
+And also some changes that was commited into main, but stayed as how it was supposed to be in the first place.
+
+
 - 👋🏼 Hi, I’m Anakin Brownridge
 - 👀 I’m interested in technology, and great food. 
 - 🌱 I’m currently learning **some** things
